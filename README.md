@@ -7,7 +7,10 @@ Finds and tests websites for XSS exploits using NodeJS, JSON, and jQuery. Built 
 I give you full permission to modify, tweak, and use bits/pieces of our work in your project as long as you give us credit somewhere visible (ie: not in a comment in the code).
 
 
-Team Members (names spaced to avoid indexing):
+Team Members (handles spaced to avoid indexing):
+
 @brent rubell (Brent Rubell
+
 @broodwar 67 (Daniel Lee)
-@[does not have twitter] (Ryan Thielke)
+
+@ [ does not have a twitter ] (Ryan Thielke)
